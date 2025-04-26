@@ -32,4 +32,4 @@ jobs:
         external_repository: atrion/atrion.github.io
         publish_dir: ./_site
         destination_dir: blog
-        publish_branch: main
+        publish_branch: master
