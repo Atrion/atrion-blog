@@ -1,0 +1,38 @@
+name: Deploy Jekyll Blog to /blog
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout atrion-blog repo
+      uses: actions/checkout@v3
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+
+    - name: Install Jekyll and Bundler
+      run: |
+        gem install bundler jekyll
+
+    - name: Build Jekyll Site
+      run: |
+        bundle init
+        echo "gem 'jekyll'" >> Gemfile
+        bundle install
+        bundle exec jekyll build --destination _site
+
+    - name: Deploy to atrion.github.io/blog
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        external_repository: atrion/atrion.github.io
+        publish_dir: ./_site
+        destination_dir: blog
+        publish_branch: main

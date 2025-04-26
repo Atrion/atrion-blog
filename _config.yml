@@ -1,0 +1,17 @@
+title: Atrion's Blog
+description: A personal public journal and blog.
+baseurl: "/blog"
+url: "https://atrion.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num"
+author: atrion
+permalink: /blog/:title/
+google_analytics: "" # Add your GA ID later
+markdown: kramdown
+kramdown:
+  input: GFM
