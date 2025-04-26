@@ -17,9 +17,9 @@ jobs:
       with:
         ruby-version: '3.1'
 
-    - name: Install Jekyll and Bundler
+    - name: Install Jekyll, Bundler, and Minima theme
       run: |
-        gem install bundler jekyll
+        gem install bundler jekyll minima
 
     - name: Build Jekyll Site
       run: |
