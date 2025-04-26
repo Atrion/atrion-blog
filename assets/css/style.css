@@ -1,2 +1,73 @@
-body { font-family: sans-serif; line-height: 1.6; background: #fff; color: #000; }
-@media (prefers-color-scheme: dark) { body { background: #121212; color: #ddd; } }
+/* Base body styles */
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Links */
+a {
+  color: #80cbc4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header, Navigation, and Footer */
+header, nav, footer {
+  background-color: #1e1e1e;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #e0e0e0;
+}
+
+/* Posts and Content */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+ul, ol {
+  margin-left: 2em;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #1f1f1f;
+  padding: 0.5em;
+  border-radius: 5px;
+  font-family: monospace;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #80cbc4;
+  margin: 1em;
+  padding-left: 1em;
+  color: #ccc;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 0 1em;
+}

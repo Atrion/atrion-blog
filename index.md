@@ -1,7 +1,15 @@
 ---
 layout: page
-title: "Home"
+title: "Blog"
 permalink: /
 ---
 
-Welcome to my blog. Use the links above to navigate.
+# Latest Blog Posts
+
+{% for post in site.posts %}
+## {{ post.title }}
+
+{{ post.content }}
+
+---
+{% endfor %}
