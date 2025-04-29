@@ -21,5 +21,5 @@ This is where I'll collect my poems, essays, stories, and random bits of writing
   {% endfor %}
 </ul>
 {% else %}
-<p>No writings yet — check back soon.</p>
+<p>No writings yet â€” check back soon.</p>
 {% endif %}
