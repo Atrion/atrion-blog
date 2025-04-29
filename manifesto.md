@@ -20,16 +20,15 @@ Children in developing countries, students without wealthy institutions, self-ta
 
 Some say, “That’s just how the system works.” But systems are made by people, and people can change them.
 
-We believe it is time to go further. Not cautiously. Not politely but bold, open, and Together.
+We believe it is time to go further. Not cautiously. Not politely but bold, open, and together.
 
 We call for universal access. Every person, anywhere, should be able to read, use, and build upon knowledge without restriction. No price tags. No geo-blocks. No login screens. If it is meant to advance humanity, then it must be accessible to all of humanity.
 
 We call for equity. Real equity. Not polished mission statements or temporary pilot programs. We mean infrastructure that includes the Global South. Education that serves the underserved. Data that respects, and uplifts marginalized voices.
 
-
 We call for ethical defiance. When the law protects the gatekeepers more than the learners, the law must be challenged. Sharing a journal article is not theft. Uploading a textbook is not a crime. Disseminating public knowledge should never be punished.
 
-This is not piracy. This is preservation. This is justice.
+This is not piracy. This is preservation. This is justice.  
 We do not ask permission to do what is right.
 
 We speak to researchers: retain your rights. Publish in open access journals. Archive your work. Share with your peers.
@@ -48,13 +47,13 @@ There is no justice in unjust laws. There is no fairness in forced ignorance. If
 
 We must take it back. Share it widely. Preserve it permanently.
 
-Because access is not a luxury.  
-It is not a perk.  
+Because access is not a luxury.  
+It is not a perk.  
 It is a right.
 
-And with enough of us, around the world, we will not just resist the privatization of knowledge.  
+And with enough of us, around the world, we will not just resist the privatization of knowledge.  
 
-We will end it.
+We will end it.  
 Will you join us?
 
 *2025 Wherever information is still behind a wall*
