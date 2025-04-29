@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Blog"
+title: "Latest Blog Posts"
 permalink: /
 ---
-
-# Latest Blog Posts
 
 {% for post in site.posts %}
 ## {{ post.title }}
