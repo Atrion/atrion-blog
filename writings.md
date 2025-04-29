@@ -1,0 +1,25 @@
+---
+layout: page
+title: "Writings"
+permalink: /writings/
+---
+
+# Writings
+
+This is where I'll collect my poems, essays, stories, and random bits of writing.
+
+## Latest Writings
+
+{% assign writings_posts = site.tags.writings %}
+{% if writings_posts %}
+<ul>
+  {% for post in writings_posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>({{ post.date | date: "%B %d, %Y" }})</small>
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No writings yet — check back soon.</p>
+{% endif %}

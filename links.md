@@ -4,4 +4,7 @@ title: "Links"
 permalink: /links/
 ---
 
-Here are some links to my favorite places and projects.
+## Useful Links
+
+- [Example 1](https://example.com)
+- [Example 2](https://example.com)

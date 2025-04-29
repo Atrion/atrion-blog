@@ -4,7 +4,7 @@ title: "Blog"
 permalink: /blog/
 ---
 
-Browse all blog entries below:
+# Blog Posts Archive
 
 <ul>
   {% for post in site.posts %}
