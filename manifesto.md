@@ -8,17 +8,17 @@ permalink: /manifesto/
 
 Information is power. But like all power, there are those who would keep it for themselves.
 
-The world’s scientific and cultural heritage, centuries of research, discovery, thought, and progress, is being digitized and then locked away. Not by accident, not by neglect, but by design. A handful of corporations profit by placing tolls on the road to knowledge. Want to read the most important papers in your field? You’ll need to pay up, or go without.
+The world's scientific and cultural heritage, centuries of research, discovery, thought, and progress, is being digitized and then locked away. Not by accident, not by neglect, but by design. A handful of corporations profit by placing tolls on the road to knowledge. Want to read the most important papers in your field? You'll need to pay up, or go without.
 
 This is not just a frustration. It is an injustice. It is a deliberate act of exclusion.
 
-The Open Access Movement has worked tirelessly. It has won battles, opened doors, and changed laws. Scientists now fight to keep their copyrights. Universities are building repositories. Funders are demanding free access. But still, even the best victories are limited. Most of the world’s knowledge remains locked behind paywalls, and those walls are getting higher.
+The Open Access Movement has worked tirelessly. It has won battles, opened doors, and changed laws. Scientists now fight to keep their copyrights. Universities are building repositories. Funders are demanding free access. But still, even the best victories are limited. Most of the world's knowledge remains locked behind paywalls, and those walls are getting higher.
 
 It is not just the past that is being lost. It is the future.
 
 Children in developing countries, students without wealthy institutions, self-taught learners and citizen scientists, all of them are shut out. Academic publishing protects profits, not people. It favors elite institutions and markets, not global equity. It rewards secrecy, not sharing.
 
-Some say, “That’s just how the system works.” But systems are made by people, and people can change them.
+Some say, "That's just how the system works." But systems are made by people, and people can change them.
 
 We believe it is time to go further. Not cautiously. Not politely but bold, open, and together.
 
