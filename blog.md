@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Blog"
+title: "Blog Posts Archive"
 permalink: /blog/
 ---
-
-# Blog Posts Archive
 
 <ul>
   {% for post in site.posts %}

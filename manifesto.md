@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Manifesto"
+title: "Access is a Right: A Data Freedom Manifesto"
 permalink: /manifesto/
 ---
-
-# Access is a Right: A Data Freedom Manifesto
 
 Information is power. But like all power, there are those who would keep it for themselves.
 

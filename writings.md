@@ -4,8 +4,6 @@ title: "Writings"
 permalink: /writings/
 ---
 
-# Writings
-
 This is where I'll collect my poems, essays, stories, and random bits of writing.
 
 ## Latest Writings

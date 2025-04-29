@@ -4,8 +4,6 @@ title: "Tags"
 permalink: /tags/
 ---
 
-# Tags
-
 {% assign tags_list = site.tags %}
 {% if tags_list %}
 <ul>

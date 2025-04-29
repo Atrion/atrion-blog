@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
-
 Here you'll find a list of things I'm currently working on, thinking about starting, or simply dreaming up.
 
 ## Active Projects
