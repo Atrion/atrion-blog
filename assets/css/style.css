@@ -135,12 +135,29 @@ img {
 }
 
 /* Makes writing be in a colored Box */
-.writing-container {
+.writing-post .writing-container {
   background-color: #1a1a1a;
   border: 1px solid #333;
   border-radius: 8px;
-  padding: 1.5rem;
-  margin-top: 1rem;
+  padding: 2rem;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.writing-post .writing-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.writing-post .writing-title {
+  font-size: 2rem;
+  color: #ffffff;
+  margin-bottom: 0.25rem;
+}
+
+.writing-post .writing-date {
+  font-size: 0.95rem;
+  color: #bbbbbb;
+  margin: 0;
 }
