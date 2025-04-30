@@ -5,6 +5,7 @@ date: 2025-04-29 21:00:00 -0300
 tags: [poem, writings]
 categories: [writings]
 author: Atrion Darnay
+type: Poem
 permalink: /writings/almost-familiar/
 ---
 
