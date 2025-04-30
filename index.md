@@ -14,4 +14,4 @@ permalink: /
 </div>
 {% endfor %}
 
-<p><a href="/blog/blog/">View All Posts ?</a></p>
+<p><center><a href="/blog/blog/">< View All Posts ></a></Center></p>
