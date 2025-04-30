@@ -8,12 +8,12 @@ This is where I'll collect my poems, essays, stories, and random bits of writing
 
 ## Latest Writings
 
-{% for post in site.posts %}
-  {% if post.tags contains "writings" %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
-
+<ul>
+  {% assign sorted_writings = site.writings | sort: "title" %}
+  {% for writing in sorted_writings %}
+    <li><a href="{{ writing.url | relative_url }}">{{ writing.title }}</a> - {{ writing.date | date: "%B %d, %Y" }}</li>
+  {% endfor %}
+</ul>
 
 <!-- 
 {% assign writings_posts = site.tags.writings %}
