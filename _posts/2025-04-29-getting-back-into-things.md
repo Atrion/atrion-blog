@@ -4,7 +4,8 @@ title: "Getting Back Into Things"
 date: 2025-04-29 23:30:00 -0300
 tags: [personal, site-update, daily-life, obsidian, biking, doctor-who]
 categories: [blog]
-permalink: /blog/getting-back-into-things/
+author: Atrion Darnay
+permalink: /blog/Getting-Back-Into-Things/
 ---
 
 Today felt like one of those quiet resets, not because anything grand happened, but because a few things finally moved forward.
