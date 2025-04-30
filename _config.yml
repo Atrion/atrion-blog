@@ -15,3 +15,7 @@ google_analytics: "" # Add your GA ID later
 markdown: kramdown
 kramdown:
   input: GFM
+collections:
+  writings:
+    output: true
+    permalink: /writings/:title/

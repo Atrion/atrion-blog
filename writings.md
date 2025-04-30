@@ -8,6 +8,14 @@ This is where I'll collect my poems, essays, stories, and random bits of writing
 
 ## Latest Writings
 
+{% for post in site.posts %}
+  {% if post.tags contains "writings" %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endif %}
+{% endfor %}
+
+
+<!-- 
 {% assign writings_posts = site.tags.writings %}
 {% if writings_posts %}
 <ul>
@@ -21,3 +29,5 @@ This is where I'll collect my poems, essays, stories, and random bits of writing
 {% else %}
 <p>No writings yet, check back soon.</p>
 {% endif %}
+-->
+
