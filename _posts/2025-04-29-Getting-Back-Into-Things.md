@@ -25,7 +25,3 @@ And of course, I kept up with my Bible reading schedule. Today's portion was:
 - **Matthew 21** The entry into Jerusalem and the clearing of the temple; a shift in tone and pace as the cross drew closer.
 
 Not a bad day, really. Nothing flashy. But a quiet kind of progress.
-
----
-
-*Tags: biking, site updates, obsidian, doctor who, Bible reading*
