@@ -119,6 +119,7 @@ img {
 }
 /* End of Post Stylings on Main page */
 
+/* Makes the Page Titles Be large Headers */
 .page-header {
   background-color: #111;
   padding: 2rem 1rem;
@@ -131,4 +132,15 @@ img {
   font-size: 2rem;
   color: #ffffff;
   margin: 0;
+}
+
+/* Makes writing be in a colored Box */
+.writing-container {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
