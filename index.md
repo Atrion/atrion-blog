@@ -14,4 +14,7 @@ permalink: /
 </div>
 {% endfor %}
 
-<p><center><a href="/blog/blog/">< View All Posts ></a></Center></p>
+<p style="text-align: center;">
+  <a href="/blog/blog/" style="text-decoration: none; font-weight: bold;">&lt; View All Posts &gt;</a>
+</p>
+
