@@ -5,7 +5,7 @@ permalink: /writings/
 ---
 
 <ul>
-  {% assign sorted_writings = site.writings | sort: "title" %}
+  {% assign sorted_writings = site.writings | sort: "date" | reverse %}
   {% for writing in sorted_writings %}
     <li>
       {% if writing.type %}
