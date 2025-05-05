@@ -14,12 +14,11 @@ permalink: /blog/
     <ul>
       {% for post in month.items %}
         <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -
           {{ post.date | date: "%B %d, %Y at %I:%M %p" }}
         </li>
       {% endfor %}
     </ul>
   {% endfor %}
-
 {% endfor %}
 
