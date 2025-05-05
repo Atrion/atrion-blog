@@ -162,3 +162,13 @@ img {
   white-space: pre-wrap;
 }
 
+/* Justification for each column */
+.two-column-poem div:first-child {
+  text-align: right;
+}
+
+.two-column-poem div:last-child {
+  text-align: left;
+}
+
+
