@@ -4,6 +4,11 @@ title: "Blog Posts Archive"
 permalink: /blog/
 ---
 
+{% capture _ % %}
+{% endcapture %}
+
+{% raw %}
+
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year_group in posts_by_year %}
   <h2>{{ year_group.name }}</h2>
@@ -21,4 +26,4 @@ permalink: /blog/
     </ul>
   {% endfor %}
 {% endfor %}
-
+{% endraw %}
