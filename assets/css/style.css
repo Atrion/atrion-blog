@@ -145,3 +145,20 @@ img {
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 */
+
+/* For the 2 colun Poems */
+.two-column-poem {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+  background-color: #1a1a1a;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.two-column-poem div {
+  white-space: pre-wrap;
+}
+
