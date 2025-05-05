@@ -1,12 +1,12 @@
 ---
-layout: writing
+layout: page
 title: "I Remember You Endure"
 date: 2025-05-03 15:00:00 -0400
 tags: [poem, grief, memory, love]
 categories: [writings]
 author: Atrion Darnay
 permalink: /writings/I-Remember-You-Endure/
-type: poem
+type: Poem
 ---
 
 <div class="two-column-poem">
