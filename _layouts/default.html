@@ -5,29 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.10.0/simple-jekyll-search.min.js" defer></script>
 </head>
 <body>
   <header>
   </header>
 
-    <nav class="navbar">
-      <a href="/">Linktree</a> |
-      <a href="/blog/index">Home</a> |
-      <a href="/blog/blog">Blog Archive</a> |
-      <a href="/blog/manifesto">Manifesto</a> |
-      <a href="/blog/writings">Writings</a> |
-      <a href="/blog/tags">Tags</a> |
-      <a href="/blog/about">About</a> |
-      <a href="/blog/links">Links</a> 
-    </nav>
-
+  <nav class="navbar">
+    <a href="/">Linktree</a> |
+    <a href="/blog/index">Home</a> |
+    <a href="/blog/blog">Blog Archive</a> |
+    <a href="/blog/manifesto">Manifesto</a> |
+    <a href="/blog/writings">Writings</a> |
+    <a href="/blog/tags">Tags</a> |
+    <a href="/blog/about">About</a> |
+    <a href="/blog/links">Links</a> |
+    <input type="text" id="search-input" placeholder="Search..." style="margin-left: 1rem; padding: 0.25rem;">
+  </nav>
 
   <main class="container">
     {% if page.title %}
-  <header class="page-header">
-    <h1 class="page-title">{{ page.title }}</h1>
-  </header>
-  {% endif %}
+    <header class="page-header">
+      <h1 class="page-title">{{ page.title }}</h1>
+    </header>
+    {% endif %}
+
+    <div id="results-container"></div>
     {{ content }}
   </main>
 
@@ -35,7 +38,18 @@
     <p>© Atrion Darnay {{ "now" | date: "%Y" }}. All rights reserved.</p>
   </footer>
 
-  
-
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+      });
+    });
+  </script>
 </body>
 </html>
