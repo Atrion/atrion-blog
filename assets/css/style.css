@@ -171,22 +171,4 @@ img {
   text-align: left;
 }
 
-/* Search Field */
-#results-container {
-  background: #1a1a1a;
-  padding: 1rem;
-  margin-top: 1rem;
-  border: 1px solid #333;
-  border-radius: 5px;
-  list-style-type: none;
-}
-
-#results-container li {
-  margin-bottom: 0.5rem;
-}
-
-#results-container a {
-  color: #70a9ff;
-  text-decoration: underline;
-}
 
