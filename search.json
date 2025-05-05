@@ -7,10 +7,9 @@ permalink: /search.json
     {
       "title": "{{ post.title | escape }}",
       "url": "{{ post.url | relative_url }}",
-      "date": "{{ post.date | date_to_string }}",
+      "date": "{{ post.date | date: "%Y-%m-%d" }}",
       "tags": "{{ post.tags | join: ', ' }}",
-      "categories": "{{ post.categories | join: ', ' }}",
       "content": {{ post.content | strip_html | strip_newlines | jsonify }}
-    }{% unless forloop.last %},{% endunless %}
+    }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]
