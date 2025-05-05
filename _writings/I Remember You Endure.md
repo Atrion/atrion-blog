@@ -5,8 +5,8 @@ date: 2025-05-03 15:00:00 -0400
 tags: [poem, grief, memory, love]
 categories: [writings]
 author: Atrion Darnay
-permalink: /writings/I-Remember-You-Endure/
 type: Poem
+permalink: /writings/i-remember-you-endure/
 ---
 
 <div class="two-column-poem">
