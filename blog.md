@@ -7,6 +7,7 @@ permalink: /blog/
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in posts_by_year %}
   <h2>{{ year.name }}</h2>
+
   {% assign months = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
   {% for month in months %}
     <h3>{{ month.name }}</h3>
@@ -19,5 +20,6 @@ permalink: /blog/
       {% endfor %}
     </ul>
   {% endfor %}
+
 {% endfor %}
 
