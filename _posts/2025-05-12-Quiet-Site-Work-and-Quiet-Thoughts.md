@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quiet Site Work and Quiet Thoughts"
-date: 2025-05-13 21:30:00 +0000
+date: 2025-05-12 21:30:00 +0000
 tags: [updates, poetry, site changes]
 categories: [personal]
 author: Atrion Darnay
