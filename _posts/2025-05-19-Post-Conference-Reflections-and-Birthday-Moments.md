@@ -40,7 +40,7 @@ Until next time.
     <img src="{{ '/assets/images/2025-05-19/PXL_20250517_202247783.MP.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
     <a href="{{ '/assets/images/2025-05-19/PXL_20250518_184757887.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/2025-05-19/PXL_20250518_184757887.' | relative_url }}" alt="2025 PEI Conference">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250518_184757887.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
   <a href="{{ '/assets/images/2025-05-19/PXL_20250518_184759911.jpg' | relative_url }}" target="_blank">
     <img src="{{ '/assets/images/2025-05-19/PXL_20250518_184759911.jpg' | relative_url }}" alt="2025 PEI Conference">
