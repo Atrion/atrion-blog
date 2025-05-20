@@ -14,10 +14,12 @@ Seeking His presence as we sit and pray,
 Following closely, obeying His call,
 Soon He will come for all.
 
-    Patiently waiting for that glorious day,
-    Praising Him always, in His perfect way,
-    Living each moment, guided by His light,
-    In glory oh so bright.
+<div style="margin-left: 2em;">
+Patiently waiting for that glorious day,
+Praising Him always, in His perfect way,
+Living each moment, guided by His light,
+In glory oh so bright.
+</div>
 
 Walking in faith, trusting His perfect way,
 Serving in love, we worship and we pray,

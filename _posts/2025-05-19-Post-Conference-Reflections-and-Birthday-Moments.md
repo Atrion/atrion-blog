@@ -30,28 +30,28 @@ Until next time.
 
 
 <div class="gallery">
-  <a href="/assets/images/2025-05-19/PXL_20250517_161032377.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250517_161032377.jpg" alt="2025 PEI Conference">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250517_161032377.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250517_161032377.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-  <a href="/assets/images/2025-05-19/PXL_20250517_162737697.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250517_162737697.jpg" alt="2025 PEI Conference">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250517_162737697.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250517_162737697.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-  <a href="/assets/images/2025-05-19/PXL_20250517_202247783.MP.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250517_202247783.MP.jpg" alt="2025 PEI Conference">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250517_202247783.MP.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250517_202247783.MP.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-    <a href="/assets/images/2025-05-19/PXL_20250518_184757887.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250518_184757887.jpg" alt="2025 PEI Conference">
+    <a href="{{ '/assets/images/2025-05-19/PXL_20250518_184757887.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250518_184757887.' | relative_url }}" alt="2025 PEI Conference">
   </a>
-  <a href="/assets/images/2025-05-19/PXL_20250518_184759911.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250518_184759911.jpg" alt="2025 PEI Conference">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250518_184759911.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250518_184759911.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-  <a href="/assets/images/2025-05-19/PXL_20250519_002509366.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250519_002509366.jpg" alt="2025 PEI Conference">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250519_002509366.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250519_002509366.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-    <a href="/assets/images/2025-05-19/PXL_20250519_002510994.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250519_002510994.jpg" alt="2025 PEI Conference">
+    <a href="{{ '/assets/images/2025-05-19/PXL_20250519_002510994.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250519_002510994.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
-  <a href="/assets/images/2025-05-19/PXL_20250519_002512146.jpg" target="_blank">
+  <a href="{{ '/assets/images/2025-05-19/PXL_20250519_002512146.jpg' | relative_url }}" target="_blank">
     <img src="{{ '/assets/images/2025-05-19/PXL_20250517_161032377.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
 </div>
