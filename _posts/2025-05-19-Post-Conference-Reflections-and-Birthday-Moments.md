@@ -52,6 +52,6 @@ Until next time.
     <img src="/assets/images/2025-05-19/PXL_20250519_002510994.jpg" alt="2025 PEI Conference">
   </a>
   <a href="/assets/images/2025-05-19/PXL_20250519_002512146.jpg" target="_blank">
-    <img src="/assets/images/2025-05-19/PXL_20250519_002512146.jpg" alt="2025 PEI Conference">
+    <img src="{{ '/assets/images/2025-05-19/PXL_20250517_161032377.jpg' | relative_url }}" alt="2025 PEI Conference">
   </a>
 </div>
