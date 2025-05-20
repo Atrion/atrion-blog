@@ -9,29 +9,29 @@ type: Poem
 permalink: /writings/Living-Each-Day-for-Jesus/
 ---
 
-Living each day, striving to walk His way,
-Seeking His presence as we sit and pray,
-Following closely, obeying His call,
-Soon He will come for all.
+Living each day, striving to walk His way,<br>
+Seeking His presence as we sit and pray,<br>
+Following closely, obeying His call,<br>
+Soon He will come for all.<br>
 
 <div style="margin-left: 2em;">
-Patiently waiting for that glorious day,
-Praising Him always, in His perfect way,
-Living each moment, guided by His light,
-In glory oh so bright.
+Patiently waiting for that glorious day,<br>
+Praising Him always, in His perfect way,<br>
+Living each moment, guided by His light,<br>
+In glory oh so bright.<br>
 </div>
 
-Walking in faith, trusting His perfect way,
-Serving in love, we worship and we pray,
-Living in hope, we hold His promise near,
-Our Saviour will appear.
+Walking in faith, trusting His perfect way,<br>
+Serving in love, we worship and we pray,<br>
+Living in hope, we hold His promise near,<br>
+Our Saviour will appear.<br>
 
-Bearing our cross, we follow in His steps,
-Shining His love, we share the joy He kept,
-Faithful and true, through trials we stand,
-For that heavenly land.
+Bearing our cross, we follow in His steps,<br>
+Shining His love, we share the joy He kept,<br>
+Faithful and true, through trials we stand,<br>
+For that heavenly land.<br>
 
-Jesus, our King, we honor and adore,
-He is our life, our hope forevermore,
-With every breath, we offer Him our praise,
+Jesus, our King, we honor and adore,<br>
+He is our life, our hope forevermore,<br>
+With every breath, we offer Him our praise,<br>
 This till the end of days.
