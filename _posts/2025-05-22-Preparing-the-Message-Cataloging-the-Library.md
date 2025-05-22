@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Preparing the Message, Cataloging the Library"
+title: "Preparing the Message Cataloging the Library"
 date: 2025-05-22 16:30:00 -0400
-tags: [Gospel, Bible Study, Books, Personal Update]
+tags: [gospel, bible study, books, personal]
 categories: [Reflections]
 author: Marc MacArthur
 permalink: /blog/Preparing-the-Message-Cataloging-the-Library/
