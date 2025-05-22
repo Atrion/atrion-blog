@@ -28,6 +28,7 @@ If everything worked like I hoped, there should be a few images from the confere
 
 Until next time.
 
+<!--more-->
 
 <div class="gallery">
   <a href="{{ '/assets/images/2025-05-19/PXL_20250517_161032377.jpg' | relative_url }}" target="_blank">
