@@ -5,7 +5,7 @@ date: 2025-05-22 16:30:00 -0400
 tags: [Gospel, Bible Study, Books, Personal Update]
 categories: [Reflections]
 author: Marc MacArthur
-permalink: /blog/blog/Preparing-the-Message-Cataloging-the-Library/
+permalink: /blog/Preparing-the-Message-Cataloging-the-Library/
 ---
 
 Lately I've been working on my Gospel message for the upcoming Zoom meeting with the Philippines, scheduled for May 31st. It's been on my mind more than usual. I tend to second-guess my messages, not because I don’t believe them, but because I often lack a bit of confidence in my delivery. 
