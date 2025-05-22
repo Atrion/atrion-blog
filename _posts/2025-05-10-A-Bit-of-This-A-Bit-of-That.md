@@ -14,6 +14,8 @@ Not a whole lot to report today, but I’ll put a few things down while I’ve g
 
 **Friday** was the usual grocery day: expensive, dull, and necessary. Not much else to say there.
 
+<!--more-->
+
 I've spent a good chunk of the week **reformatting and organizing my notes in Obsidian**, moving over transcripts, personal writings, poetry, and more. The structure is starting to make sense now.
 
 Two writing projects hit milestones this week. I finished off a devotional series on **"The Christian Armour"** and completed **Part One** of an article titled **"The Gift of Singleness."** So far, the devotional pieces have been shared within my assembly and with a trusted friend who’s also a preacher. I’ve also passed the article along to him and hope to get some honest feedback soon.

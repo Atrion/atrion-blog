@@ -12,6 +12,7 @@ Today marks **six months** since I started changing my diet.
 
 It hasn’t always been easy, but it’s been worth it. I’m down another **3.9 lbs this week**, bringing the total weight lost so far to **77.6 lbs**. It still surprises me seeing the number go down like that, but I’m learning not to question good progress. Just keep at it, day by day. 
 
+<!--more-->
 ---
 
 On the productivity side, I’m finally getting the hang of **Obsidian**,  at least the basics. I’ve started moving my **Bible study notes** into the vault, trying to organize them in a way that makes sense long-term. Same goes for my scattered thoughts, plans, and project outlines. 

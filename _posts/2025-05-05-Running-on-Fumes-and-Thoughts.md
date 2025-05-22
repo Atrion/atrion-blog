@@ -12,6 +12,8 @@ Running into Sunday with absolutely zero sleep is a special kind of disorientati
 
 I had something on my heart to share during the meeting, but once again, I kept quiet. I don’t know why I freeze up when it matters. It’s frustrating, because it felt like something I was meant to say. And I didn’t.
 
+<!--more-->
+
 There was a baptism at the hall after. That always puts things in perspective. New beginnings, public faith, the beauty of submission. After everyone left, I stayed behind and spent most of the afternoon alone at the hall. Tried to nap a bit, didn’t happen. Ended up making a coffee and settling in reading my Bible for a while.
 
 Later, while editing the audio from the day’s messages, I managed to put the wrong last name on one of the speakers. As soon as people noticed, I felt embarrassed and honestly, kind of foolish. 
