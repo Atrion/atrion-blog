@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Why I Write (Even When I'm Not Sure)"
-date: 2025-04-27
-
+date: 2025-04-27 15:45:00 -0400
 categories: [Personal]
 tags: [writing, personal, beginning]
 author: Atrion Darnay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom Messages Missed Opportunities and the Week Ahead"
-date: 2025-06-01 23:45:00 -0000
+date: 2025-06-01 23:45:00 -0400
 tags: [zoom-message, gospel, ministry-prep, personal-struggle, conference, devotional-writing, recording-issues, travel, halifax-conference, anxiety, prayer]
 categories: blog
 author: Marc MacArthur

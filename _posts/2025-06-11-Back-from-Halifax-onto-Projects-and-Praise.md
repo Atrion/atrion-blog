@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back from Halifax onto Projects and Praise"
-date: 2025-06-11 17:45:00 -0000
+date: 2025-06-11 17:45:00 -0400
 tags: [conference, island-books, gospel-message, writing, projects, personal]
 categories: blog
 author: Marc MacArthur

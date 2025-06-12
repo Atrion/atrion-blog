@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post-Conference Reflections and Birthday Moments"
-date: 2025-05-19 23:00:00 -0300
+date: 2025-05-19 23:00:00 -0400
 tags: [conference, gospel, ministry, fellowship, birthday, reflection, weight-loss, friends]
 categories: blog
 author: Marc MacArthur

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Website Rant"
-date: 2025-04-29 01:45:00 -0000
+date: 2025-04-29 01:45:00 -0400
 categories: [Rants]
 tags: [rant, thoughts]
 author: Atrion Darnay

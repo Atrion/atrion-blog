@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A Personal Communion Walking with God"
-date: 2025-05-20 01:32:00 -0300
+date: 2025-05-20 01:32:00 -0400
 tags: [article, writings]
 categories: [writings]
 author: Marc MacArthur

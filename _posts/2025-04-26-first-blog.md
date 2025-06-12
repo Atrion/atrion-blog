@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting Somewhere"
-date: 2025-04-26
+date: 2025-04-26 17:45:00 -0400
 categories: [journal, Personal]
 tags: [introduction, beginning, personal]
 author: Atrion Darnay

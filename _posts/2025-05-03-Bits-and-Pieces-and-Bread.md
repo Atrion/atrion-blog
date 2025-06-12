@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bits and Pieces and Bread"
-date: 2025-05-03 14:35:00 -0300
+date: 2025-05-03 14:35:00 -0400
 categories: [journal]
 tags: [journal, projects, photos, writing, gospel, Bible]
 author: Atrion Darnay
