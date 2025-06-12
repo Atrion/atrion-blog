@@ -4,15 +4,16 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Here you'll find a list of things I'm currently working on, thinking about starting, or simply dreaming up.
-
-## Active Projects
-- Building this blog and keeping it alive.
-- Researching local history of my community in PEI.
-- Increasing my Bible study and notes
-
-## Future Ideas
-- Compile a collection of personal writings into a book.
-- Create a photo archive of PEI landscapes and landmarks.
-
-(Subject to change, and probably will!)
+<div class="project-grid">
+  {% assign sorted_projects = site.projects | sort: "date" | reverse %}
+  {% for project in sorted_projects %}
+    <div class="project-item">
+      <a href="{{ project.url | relative_url }}">
+        {% if project.image %}
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+        {% endif %}
+        <h3>{{ project.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>

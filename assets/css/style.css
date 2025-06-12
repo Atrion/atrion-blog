@@ -192,3 +192,37 @@ img {
 .gallery a:hover img {
   transform: scale(1.05);
 }
+
+/* For the Projects Pages */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.project-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.project-item:hover {
+  transform: scale(1.02);
+}
+
+.project-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+
+.project-item h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
