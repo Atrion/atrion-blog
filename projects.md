@@ -4,10 +4,10 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<div class="project-grid">
+<div class="projects-container">
   {% assign sorted_projects = site.projects | sort: "date" | reverse %}
   {% for project in sorted_projects %}
-    <div class="project-item">
+    <div class="project-card">
       <a href="{{ project.url | relative_url }}">
         {% if project.image %}
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
