@@ -2,7 +2,7 @@
 title: "1964 Phone Book with Clippings"
 date: 2025-06-01 12:00:00 -0400
 layout: project
-image: /assets/images/projects/phonebook/phonebook_Cover.jpg
+image: /assets/images/projects/phonebook/phonebook_cover.jpg
 tags: [history, restoration, PEI]
 type: "Project"
 ---
