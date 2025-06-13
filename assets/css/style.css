@@ -228,30 +228,39 @@ img {
   padding: 0 0.5rem;
 }
 
-/* === Custom Header Styling for Site Branding === */
+/* === Custom Header Styling for Site Branding (Lantern Left, Text Right) === */
 
 body {
   background: #000;
   color: #fff;
   font-family: 'EB Garamond', serif;
+  margin: 0;
+  padding: 0;
 }
 
 .site-header {
-  text-align: center;
-  padding: 2rem 1rem;
-}
-
-.icon-title {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0.75rem;
+  justify-content: center;
+  padding: 2rem 1rem;
+  text-align: left;
+  flex-wrap: wrap;
+  gap: 1.25rem;
 }
 
 .site-icon {
   width: 48px;
   height: 48px;
-  filter: brightness(0) invert(1); /* Makes dark SVGs visible on black */
+  filter: brightness(0) invert(1); /* Inverts dark SVGs for black background */
+  flex-shrink: 0;
+}
+
+.icon-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 100%;
 }
 
 .site-title {
@@ -269,12 +278,23 @@ body {
 .site-subtitle {
   font-size: 1rem;
   color: #ccc;
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
   font-style: italic;
+  line-height: 1.4;
 }
 
-/* === Mobile Responsiveness for Header === */
+/* === Mobile Responsiveness === */
 @media (max-width: 600px) {
+  .site-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .icon-title {
+    align-items: center;
+  }
+
   .site-title {
     font-size: 1.75rem;
   }
