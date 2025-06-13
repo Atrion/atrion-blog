@@ -19,8 +19,7 @@ collections:
   writings:
     output: true
     permalink: /writings/:title/
-excerpt_separator: "<!--more-->"
-collections:
   projects:
     output: true
     permalink: /projects/:title/
+excerpt_separator: "<!--more-->"
