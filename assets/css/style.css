@@ -228,23 +228,22 @@ img {
   padding: 0 0.5rem;
 }
 
-/* === Header Only Styling for Site Branding (Lantern Left, Text Right) === */
+/* === Header Styling with Larger Icon and Centered Subtitle === */
 
 .site-header {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 2rem 1rem;
-  text-align: left;
   flex-wrap: wrap;
-  gap: 1.25rem;
-  font-family: 'EB Garamond', serif; /* Header-specific font */
+  gap: 1.5rem;
+  font-family: 'EB Garamond', serif;
 }
 
 .site-icon {
-  width: 48px;
-  height: 48px;
-  filter: brightness(0) invert(1); /* Inverts dark SVGs for dark background */
+  width: 64px; /* Increased size */
+  height: 64px;
+  filter: brightness(0) invert(1);
   flex-shrink: 0;
 }
 
@@ -252,7 +251,8 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center; /* Centers both title and subtitle */
+  text-align: center;
   max-width: 100%;
 }
 
@@ -271,7 +271,7 @@ img {
 .site-subtitle {
   font-size: 1rem;
   color: #ccc;
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
   font-style: italic;
   line-height: 1.4;
 }
@@ -297,7 +297,7 @@ img {
   }
 
   .site-icon {
-    width: 36px;
-    height: 36px;
+    width: 48px;
+    height: 48px;
   }
 }
