@@ -250,7 +250,8 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align: left;
+  align-items: center;  /* Center both title and subtitle under each other */
+  text-align: center;   /* Makes sure subtitle centers too */
 }
 
 .site-title {
@@ -275,8 +276,19 @@ img {
   font-family: 'EB Garamond', serif !important;
 }
 
-/* === Responsive Scaling (not layout change) for Mobile === */
+/* === Responsive Scaling (and consistent layout) for Mobile === */
 @media (max-width: 600px) {
+  .site-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .icon-title {
+    align-items: center;
+    text-align: center;
+  }
+
   .site-title {
     font-size: 1.75rem;
   }
