@@ -258,7 +258,7 @@ img {
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif !important;
 }
 
 .italic-word {
@@ -272,11 +272,24 @@ img {
   margin-top: 0.5rem;
   font-style: italic;
   line-height: 1.4;
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif !important;
 }
 
 /* === Responsive Scaling (not layout change) for Mobile === */
 @media (max-width: 600px) {
+  .site-header {
+    flex-direction: row; /* keep the icon and title side-by-side on mobile */
+    align-items: center;
+    justify-content: center;
+    text-align: left; /* ensures text isn't unnecessarily centered */
+    flex-wrap: wrap;
+  }
+
+  .icon-title {
+    align-items: flex-start;
+    text-align: left;
+  }
+
   .site-title {
     font-size: 1.75rem;
   }
