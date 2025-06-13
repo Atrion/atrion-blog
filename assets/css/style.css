@@ -241,8 +241,8 @@ img {
 }
 
 .site-icon {
-  width: 64px; /* Increased size */
-  height: 64px;
+  width: 128px; /* Increased size */
+  height: 128px;
   filter: brightness(0) invert(1);
   flex-shrink: 0;
 }
