@@ -79,7 +79,7 @@ img {
 /* Container */
 .container {
   max-width: 800px;
-  margin: 0em auto;
+  margin: 1em auto;
   padding: 0 1em;
 }
 
@@ -125,7 +125,7 @@ img {
   padding: 2rem 1rem;
   text-align: center;
   margin-top: 1.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   border-radius: 0.5rem;
 }
 
