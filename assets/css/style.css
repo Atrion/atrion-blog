@@ -258,7 +258,7 @@ img {
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif !important;
 }
 
 .italic-word {
@@ -272,7 +272,7 @@ img {
   margin-top: 0.5rem;
   font-style: italic;
   line-height: 1.4;
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif !important;
 }
 
 /* === Responsive Scaling (not layout change) for Mobile === */
