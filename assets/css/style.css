@@ -228,7 +228,7 @@ img {
   padding: 0 0.5rem;
 }
 
-/* === Header Styling with Larger Icon and Centered Subtitle === */
+/* === Custom Header Styling with Left Icon and Centered Title/Subtitle === */
 
 .site-header {
   display: flex;
@@ -236,14 +236,14 @@ img {
   justify-content: center;
   padding: 2rem 1rem;
   flex-wrap: wrap;
-  gap: 1.5rem;
-  font-family: 'EB Garamond', serif;
+  text-align: left;
 }
 
 .site-icon {
-  width: 128px; /* Increased size */
-  height: 128px;
-  filter: brightness(0) invert(1);
+  width: 96px;
+  height: auto;
+  margin-right: 1.5rem;
+  filter: brightness(0) invert(1); /* Makes dark SVGs visible on black */
   flex-shrink: 0;
 }
 
@@ -251,9 +251,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; /* Centers both title and subtitle */
   text-align: center;
-  max-width: 100%;
 }
 
 .site-title {
@@ -261,6 +259,7 @@ img {
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
+  font-family: 'EB Garamond', serif;
 }
 
 .italic-word {
@@ -274,6 +273,8 @@ img {
   margin-top: 0.5rem;
   font-style: italic;
   line-height: 1.4;
+  font-family: 'EB Garamond', serif;
+  text-align: center;
 }
 
 /* === Mobile Responsiveness === */
@@ -284,8 +285,9 @@ img {
     text-align: center;
   }
 
-  .icon-title {
-    align-items: center;
+  .site-icon {
+    margin: 0 0 1rem 0;
+    width: 64px;
   }
 
   .site-title {
@@ -294,10 +296,5 @@ img {
 
   .site-subtitle {
     font-size: 0.9rem;
-  }
-
-  .site-icon {
-    width: 48px;
-    height: 48px;
   }
 }
