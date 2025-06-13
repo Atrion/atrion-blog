@@ -302,3 +302,17 @@ img {
     height: 96px;
   }
 }
+
+/* === Page-Specific Title Styling === */
+.page-header {
+  margin-top: 2rem;        /* space between navbar and title */
+  margin-bottom: 2rem;     /* space between title and content */
+  text-align: center;
+}
+
+.page-title {
+  font-size: 2.25rem;
+  margin: 0;               /* remove default margin */
+  padding: 0;
+  font-weight: 700;
+}
