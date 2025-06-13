@@ -305,8 +305,8 @@ img {
 
 /* === Page-Specific Title Styling === */
 .page-header {
-  margin-top: 2rem;        /* space between navbar and title */
-  margin-bottom: 2rem;     /* space between title and content */
+  margin-top: 1rem;        /* space between navbar and title */
+  margin-bottom: 1rem;     /* space between title and content */
   text-align: center;
 }
 
