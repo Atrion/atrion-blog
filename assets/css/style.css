@@ -79,7 +79,7 @@ img {
 /* Container */
 .container {
   max-width: 800px;
-  margin: 1em auto;
+  margin: 0em auto;
   padding: 0 1em;
 }
 
