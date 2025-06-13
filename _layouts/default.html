@@ -5,10 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
   </header>
+
+  <div class="site-header" style="text-align: center; margin-top: 2rem;">
+  <div class="icon-title" style="display: inline-flex; align-items: center; gap: 1rem;">
+    <img src="{{ '/assets/images/lantern.png' | relative_url }}" alt="Lantern icon" class="site-icon" style="width: 48px; height: auto;" />
+    <h1 class="site-title" style="margin: 0; font-size: 2.5rem;">
+      Musings <span class="italic-word" style="font-style: italic;">from</span> Gravel Hill
+    </h1>
+  </div>
+  <p class="site-subtitle" id="subtitle" style="margin-top: 0.5rem; font-size: 1.2rem; font-style: italic;"></p>
+</div>
+
 
     <nav class="navbar">
       <a href="/">Linktree</a> |
@@ -20,7 +33,6 @@
       <a href="/blog/about">About</a> |
       <a href="/blog/links">Links</a> |
       <a href="/blog/projects">Projects</a> 
-     <!-- <a href="/PEI-Books.html">PEI Books</a> -->
     </nav>
 
 
@@ -38,6 +50,6 @@
   </footer>
 
   
-
+<script src="{{ '/assets/js/subtitles.js' | relative_url }}"></script>
 </body>
 </html>
